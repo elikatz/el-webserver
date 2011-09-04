@@ -1,7 +1,3 @@
-Python HW2
-Elliot Katz
-epk2102
-
 The webserver is a bit hacked together because I wasn't completely sure what
 was expected. It handles GET as a webserver should but I didn't whether that was 
 the same as the GET method in forms (like POST) so I didn't implement that. It wouldn't 
@@ -14,7 +10,7 @@ The second line is the port
 
 I close the port on a key-stroke so just Ctrl-C at the end.
 
-I implemented the bonus as the default for text. Google API is a bit buggy
+Google API is a bit buggy
 so it won't let you test it more than a few times per time interval. 
 
 I must attribute my code to various tutorials online. There isn't any one peice
